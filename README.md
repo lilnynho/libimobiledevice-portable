@@ -1,4 +1,4 @@
-# libimobiledevice Windows x64 Portable
+# libimobiledevice Windows x64
 
 build of libimobiledevice 1.4.0 for Windows x64.
 
