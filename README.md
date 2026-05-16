@@ -1,6 +1,6 @@
 # libimobiledevice
 
-build of libimobiledevice v1.4.0 for Windows x64.
+build for Windows x64.
 
 Compiled using:
 - MSYS2 UCRT64
