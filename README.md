@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lilnynho/libimobiledevice-portable/main/assets/logo.jpg" width="220">
+</p>
+
 # libimobiledevice
 
 build for Windows x64.
